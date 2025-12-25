@@ -35,7 +35,4 @@ This project predicts restaurant revenue using operational, categorical, and loc
 - Scikit-learn  
 - Matplotlib, Seaborn
 
----
 
-## 📌 License
-MIT License (or your choice)
